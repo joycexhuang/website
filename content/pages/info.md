@@ -36,6 +36,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: about
   - type: DividerSection
     styles:
       self:
