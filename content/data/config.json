@@ -56,7 +56,7 @@
                 "altText": "Netlify templates"
             }
         ],
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n\n© 2025\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
