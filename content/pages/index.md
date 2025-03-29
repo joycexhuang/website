@@ -9,6 +9,14 @@ sections:
       a chinese-american
 
       student at northwestern university
+
+      studying
+
+      linguistics
+
+      computer science
+
+      & asian american studies
     colors: colors-f
     variant: variant-a
     elementId: ''
