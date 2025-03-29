@@ -5,8 +5,8 @@ colors: colors-a
 sections:
   - type: TextSection
     title: >-
-      joyce huang is a student based in chicago studying linguistics & computer
-      science and minoring in asian american studies
+      joyce huang is a student based in chicago studying linguistics, computer
+      science, and asian american studies at northwestern university
     text: ''
     colors: colors-f
     variant: variant-a
