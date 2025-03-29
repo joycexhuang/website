@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: TextSection
-    title: joyce huang is a chinese-american
+    title: joyce huang
     text: ''
     colors: colors-f
     variant: variant-a
