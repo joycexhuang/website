@@ -29,6 +29,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+        borderWidth: 4
     subtitle: ''
   - elementId: ''
     colors: colors-f
