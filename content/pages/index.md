@@ -19,7 +19,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: is a creative
+    subtitle: is a student based in chicago
   - elementId: ''
     colors: colors-f
     backgroundSize: full
