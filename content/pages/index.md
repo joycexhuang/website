@@ -6,7 +6,7 @@ sections:
   - type: TextSection
     title: joyce huang is a student based in chicago
     text: ''
-    colors: colors-c
+    colors: colors-d
     variant: variant-a
     elementId: ''
     styles:
