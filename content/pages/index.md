@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: TextSection
-    title: joyce huang is an aspiring chinese-american academic and creative
+    title: joyce huang is a chinese-american who has no fear of lactose
     text: ''
     colors: colors-f
     variant: variant-a
