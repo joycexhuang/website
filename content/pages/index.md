@@ -19,7 +19,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: ''
+    subtitle: is
   - elementId: ''
     colors: colors-f
     backgroundSize: full
