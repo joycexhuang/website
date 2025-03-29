@@ -6,11 +6,9 @@ sections:
   - type: TextSection
     title: joyce huang
     text: |
-      a photographer
+      a chinese-american
 
-      a potter
-
-      a linguist
+      student at northwestern university
     colors: colors-f
     variant: variant-a
     elementId: ''
