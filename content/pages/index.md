@@ -165,7 +165,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-03-29 at 4.47.08 PM.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
