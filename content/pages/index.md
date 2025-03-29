@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: TextSection
-    title: joyce huang is a student at northwestern university !!
+    title: joyce huang is an aspiring chinese-american academic and creative
     text: ''
     colors: colors-f
     variant: variant-a
