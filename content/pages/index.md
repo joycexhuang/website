@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: TextSection
-    title: joyce huang
+    title: joyce huang is a student based in chicago
     text: ''
     colors: colors-c
     variant: variant-a
