@@ -5,16 +5,17 @@ colors: colors-a
 sections:
   - type: TextSection
     title: joyce huang
-    text: |
-      **a chinese-american student at northwestern university**
+    text: |+
+      ### a chinese-american student at northwestern university
 
-      **studying**
+      ### studying
 
-      **linguistics**
+      ### linguistics
 
-      **computer science**
+      ### computer science
 
-      **& asian american studies**
+      ### & asian american studies
+
     colors: colors-f
     variant: variant-a
     elementId: ''
