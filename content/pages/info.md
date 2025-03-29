@@ -13,9 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      #
+    text: >
+      hi, i'm joyce, an undergraduate student at northwestern university
+      studying linguistics, computer science, and asian american studies. 
 
+       
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-03-29 at 6.53.44 PM.png
