@@ -15,7 +15,7 @@ sections:
       computer science
 
       & asian american studies
-    colors: colors-a
+    colors: colors-f
     variant: variant-a
     elementId: ''
     styles:
