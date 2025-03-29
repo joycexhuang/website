@@ -6,7 +6,7 @@ sections:
   - type: TextSection
     title: joyce huang
     text: ''
-    colors: colors-a
+    colors: colors-c
     variant: variant-a
     elementId: ''
     styles:
