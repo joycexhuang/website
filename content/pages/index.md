@@ -6,9 +6,7 @@ sections:
   - type: TextSection
     title: joyce huang
     text: |
-      a chinese-american
-
-      student at northwestern university
+      a chinese-american student at northwestern university
 
       studying
 
