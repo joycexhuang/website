@@ -18,7 +18,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Screenshot 2025-03-29 at 6.50.36 PM.png
       altText: Hero image
     styles:
       self:
