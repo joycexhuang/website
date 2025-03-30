@@ -52,7 +52,7 @@ sections:
     subtitle: Projects
 backgroundImage:
   type: BackgroundImage
-  url: /images/27680006.jpg
+  url: /images/27680006-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
