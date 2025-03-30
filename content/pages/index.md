@@ -34,7 +34,8 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects: []
+    projects:
+      - content/pages/projects/alchemy.md
     colors: colors-f
     variant: variant-b
     elementId: ''
