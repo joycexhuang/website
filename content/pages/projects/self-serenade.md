@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: self-serenade
-date: '0002-03-08'
+date: '2024-03-08'
 client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
