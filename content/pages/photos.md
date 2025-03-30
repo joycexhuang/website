@@ -21,7 +21,7 @@ sections:
           - pr-4
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
+    title: highlight
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
