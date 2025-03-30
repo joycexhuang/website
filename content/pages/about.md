@@ -40,8 +40,7 @@ sections:
     subtitle: 'i''ve worked here:'
     images:
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/nbnlogo.webp
         altText: ''
         caption: north by northwestern
         elementId: ''
