@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-c
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/27680006.jpg
