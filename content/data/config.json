@@ -50,17 +50,6 @@
                 "altText": ""
             },
             {
-                "type": "Button",
-                "label": "LINKEDIN",
-                "altText": "",
-                "url": "https://www.linkedin.com/in/joyce-huang-8494a224a/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/joycexhuang",
