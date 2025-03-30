@@ -5,9 +5,8 @@ sections:
   - type: TextSection
     title: highlights
     subtitle: featuring the best shots from my life on film
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      more at <https://vsco.co/joyandpeace/gallery>
     colors: colors-f
     variant: variant-a
     elementId: ''
