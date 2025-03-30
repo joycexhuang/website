@@ -7,7 +7,7 @@ sections:
     subtitle: featuring the best shots from my life on film
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Screenshot 2025-03-29 at 4.46.34 PM.png
         altText: Image one
         caption: Image one caption
         elementId: ''
