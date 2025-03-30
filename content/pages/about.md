@@ -58,7 +58,7 @@ sections:
         label: praat
         url: ''
       - type: Label
-        label: C++
+        label: c
         url: ''
       - type: Label
         label: Swift
