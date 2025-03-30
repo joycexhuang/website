@@ -8,7 +8,7 @@ sections:
     text: |+
       ### aspiring academic/creative based out of chicago
 
-    colors: colors-f
+    colors: colors-c
     variant: variant-a
     elementId: ''
     styles:
