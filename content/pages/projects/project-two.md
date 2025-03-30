@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: self-serenade
 colors: colors-a
 date: ''
 client: nuAZN
