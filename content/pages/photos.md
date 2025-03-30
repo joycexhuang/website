@@ -22,7 +22,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Screenshot 2025-03-29 at 9.13.49 PM.png
         altText: Image four
         caption: Image four caption
         elementId: ''
