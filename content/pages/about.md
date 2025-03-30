@@ -74,7 +74,7 @@ sections:
         borderWidth: 1
   - type: LabelsSection
     title: Skills
-    subtitle: 'Skills:'
+    subtitle: ''
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
