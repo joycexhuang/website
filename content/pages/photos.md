@@ -4,7 +4,7 @@ title: photos
 sections:
   - type: TextSection
     title: highlights
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
