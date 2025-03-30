@@ -4,10 +4,7 @@ title: ricochet
 colors: colors-a
 date: '2025-03-09'
 client: nuAZN
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: my first quarter as photo director
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-03-29 at 8.37.40 PM.png
