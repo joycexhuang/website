@@ -55,7 +55,7 @@ sections:
         label: latex
         url: ''
       - type: Label
-        label: ''
+        label: praat
         url: ''
       - type: Label
         label: C++
