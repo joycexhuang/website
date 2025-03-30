@@ -43,7 +43,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: ''
         url: ''
       - type: Label
         label: React
