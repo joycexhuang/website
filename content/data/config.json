@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "Photos",
                 "altText": "",
-                "url": "/portfolio",
+                "url": "/photos",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
