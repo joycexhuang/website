@@ -37,7 +37,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: 'I worked with these folks:'
+    subtitle: i've worked here!
     images:
       - type: ImageBlock
         url: /images/logo1.svg
