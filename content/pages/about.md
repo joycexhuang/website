@@ -305,13 +305,11 @@ sections:
   - type: TextSection
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      i am an undergraduate student at northwestern university striving to
+      continue to graduate school. my research interests include bilingualism,
+      sociolinguistics, language acquisition, prosody, and natural language
+      processing, all focused in dialectal and diasporic asian populations.
     colors: colors-d
     variant: variant-b
     elementId: ''
