@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     text: >
       hi, i'm joyce, an undergraduate student at northwestern university
-      studying linguistics, computer science, and asian american studies. i
-      speak wenzhounese, mandarin chinese, and english fluently, with some
-      experience in spanish.
+      studying linguistics, computer science, and asian american studies, hoping
+      to pursue a doctorate. my research interests include bilingualism,
+      sociolinguistics, language acquisition, prosody, and natural language
+      processing, especially in diasporic asian communities and dialects.
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-03-29 at 6.53.44 PM.png
