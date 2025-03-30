@@ -27,8 +27,7 @@ sections:
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/Screenshot 2025-03-29 at 9.14.10 PM.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
