@@ -4,7 +4,7 @@ title: photos
 sections:
   - type: TextSection
     title: highlights
-    subtitle: ''
+    subtitle: featuring the best shots from my life on film
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
