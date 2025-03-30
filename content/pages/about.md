@@ -4,7 +4,7 @@ title: about
 sections:
   - type: TextSection
     title: joyce !
-    subtitle: The section subtitle
+    subtitle: linguistics & computer science w/ asian american studies
     text: >
       i am an undergraduate student at northwestern university striving to
       continue to graduate school. my research interests include bilingualism,
