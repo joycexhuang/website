@@ -3,13 +3,16 @@ type: PageLayout
 title: about
 sections:
   - type: TextSection
-    title: joyce huang
-    subtitle: linguistics and computer science w/ asian american studies
+    title: joyce !
+    subtitle: linguistics & computer science w/ asian american studies
     text: >
       i am an undergraduate student at northwestern university striving to
       continue to graduate school. my research interests include bilingualism,
       sociolinguistics, language acquisition, prosody, and natural language
       processing, all focused in dialectal and diasporic asian populations.
+
+
+      my personal interests include photography, pottery, baking, and many more!
     colors: colors-f
     variant: variant-b
     elementId: ''
@@ -35,45 +38,48 @@ sections:
           - pl-0
           - pr-0
         borderWidth: 1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-0
-          - pr-0
-        borderWidth: 1
   - type: LabelsSection
     title: Skills
     subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: microsoft office
         url: ''
       - type: Label
-        label: React
+        label: adobe creative suite
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: jmp
         url: ''
       - type: Label
-        label: Next.js
+        label: latex
         url: ''
       - type: Label
-        label: Netlify
+        label: praat
         url: ''
       - type: Label
-        label: Pancakes
+        label: c
         url: ''
       - type: Label
-        label: C++
+        label: c++
         url: ''
       - type: Label
-        label: Swift
+        label: python
+        url: ''
+      - type: Label
+        label: drracket
+        url: ''
+      - type: Label
+        label: dssl2
+        url: ''
+      - type: Label
+        label: mandarin chinese
+        url: ''
+      - type: Label
+        label: wenzhounese
+        url: ''
+      - type: Label
+        label: spanish
         url: ''
     colors: colors-f
     elementId: ''
@@ -96,57 +102,11 @@ sections:
         borderStyle: none
         borderColor: border-(--theme-dark)
         textAlign: center
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: logo one
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: logo two
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: logo three
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: logo four
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: logo five
-        caption: Caption of the image
-        elementId: ''
-    colors: colors-a
-    spacing: 16
-    columns: 5
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        textAlign: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/27680006.jpg
+  url: /images/27680006-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
