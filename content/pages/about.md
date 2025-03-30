@@ -66,6 +66,9 @@ sections:
       - type: Label
         label: python
         url: ''
+      - type: Label
+        label: dr. racket
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
