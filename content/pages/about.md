@@ -37,7 +37,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: 'i''ve worked here:'
+    subtitle: 'i''ve worked on things here:'
     images:
       - type: ImageBlock
         url: /images/nbnlogo.webp
