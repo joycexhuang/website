@@ -6,7 +6,7 @@ sections:
     title: highlights
     subtitle: featuring the best shots from my life on film
     text: |
-      more @ [vsco](https://vsco.co/joyandpeace/gallery)
+      more @ [*vsco*](https://vsco.co/joyandpeace/gallery)**
     colors: colors-f
     variant: variant-a
     elementId: ''
