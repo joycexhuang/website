@@ -24,7 +24,7 @@ sections:
         borderWidth: 0
     subtitle: ''
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'featured projects:'
     actions:
       - type: Link
         label: See all projects
