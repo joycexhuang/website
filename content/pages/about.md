@@ -38,11 +38,7 @@ sections:
   - type: MediaGallerySection
     title: ''
     subtitle: 'i''ve worked here:'
-    images:
-      - type: ImageBlock
-        altText: ''
-        caption: ''
-        elementId: ''
+    images: []
     colors: colors-f
     spacing: 16
     columns: 5
