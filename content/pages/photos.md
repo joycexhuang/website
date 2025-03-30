@@ -22,7 +22,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     title: highlight
-    subtitle: This is the subtitle
+    subtitle: featuring the best shots from my life on film
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
