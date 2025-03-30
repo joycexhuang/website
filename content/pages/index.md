@@ -23,22 +23,28 @@ sections:
         textAlign: left
         borderWidth: 0
     subtitle: ''
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+  - type: FeaturedProjectsSection
+    subtitle: 'featured projects:'
     actions:
       - type: Link
         label: See all projects
+        altText: See all projects
         url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/alchemy.md
+      - content/pages/projects/self-serenade.md
+      - content/pages/projects/ricochet.md
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -49,10 +55,9 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
 backgroundImage:
   type: BackgroundImage
-  url: /images/27680006.jpg
+  url: /images/27680006-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
