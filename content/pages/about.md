@@ -42,7 +42,7 @@ sections:
       - type: ImageBlock
         url: /images/nbnlogo.webp
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
     colors: colors-f
     spacing: 16
