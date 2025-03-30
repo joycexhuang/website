@@ -10,7 +10,7 @@ sections:
       continue to graduate school. my research interests include bilingualism,
       sociolinguistics, language acquisition, prosody, and natural language
       processing, all focused in dialectal and diasporic asian populations.
-    colors: colors-d
+    colors: colors-f
     variant: variant-b
     elementId: ''
     styles:
