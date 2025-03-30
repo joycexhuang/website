@@ -6,7 +6,7 @@ client: nuAZN
 description: first photoshoot for a story
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/IMG_2692.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
