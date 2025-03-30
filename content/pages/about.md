@@ -61,7 +61,7 @@ sections:
         label: c
         url: ''
       - type: Label
-        label: Swift
+        label: c++
         url: ''
     colors: colors-f
     elementId: ''
