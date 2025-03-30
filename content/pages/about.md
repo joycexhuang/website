@@ -2,18 +2,6 @@
 type: PageLayout
 title: about
 sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-0
-          - pr-0
-        borderWidth: 1
   - type: TextSection
     title: The Section Title
     subtitle: The section subtitle
@@ -37,6 +25,18 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-0
+          - pr-0
+        borderWidth: 1
   - type: MediaGallerySection
     title: ''
     subtitle: 'I worked with these folks:'
