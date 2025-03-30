@@ -38,12 +38,7 @@ sections:
   - type: MediaGallerySection
     title: ''
     subtitle: 'i''ve worked here:'
-    images:
-      - type: ImageBlock
-        url: /images/nbnlogo.webp
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
+    images: []
     colors: colors-f
     spacing: 16
     columns: 5
