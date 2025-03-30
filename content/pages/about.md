@@ -49,7 +49,7 @@ sections:
         label: adobe creative suite
         url: ''
       - type: Label
-        label: Next.js
+        label: ''
         url: ''
       - type: Label
         label: netlify
