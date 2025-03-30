@@ -69,6 +69,9 @@ sections:
       - type: Label
         label: drracket
         url: ''
+      - type: Label
+        label: dssl2
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
