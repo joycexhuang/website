@@ -9,7 +9,7 @@ sections:
       i am an undergraduate student at northwestern university striving to
       continue to graduate school. my research interests include bilingualism,
       sociolinguistics, language acquisition, prosody, and natural language
-      processing, all focused in dialectal and diasporic asian populations
+      processing, all focused in dialectal and diasporic asian populations.
     colors: colors-f
     variant: variant-b
     elementId: ''
