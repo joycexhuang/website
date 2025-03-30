@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: self-serenade
 date: '2024-03-08'
-client: Awesome client
+client: nuAZN
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
