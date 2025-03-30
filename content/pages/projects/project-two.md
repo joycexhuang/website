@@ -4,7 +4,7 @@ title: self-serenade
 colors: colors-a
 date: '2024-03-08'
 client: nuAZN
-description: ''
+description: my first photoshoot for a story
 featuredImage:
   type: ImageBlock
   url: /images/IMG_2692.jpg
