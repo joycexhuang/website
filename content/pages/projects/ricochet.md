@@ -3,9 +3,7 @@ type: ProjectLayout
 title: ricochet
 date: '2025-03-09'
 client: nuAZN
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: first shoot as photo director
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
