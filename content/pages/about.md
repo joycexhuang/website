@@ -35,18 +35,6 @@ sections:
           - pl-0
           - pr-0
         borderWidth: 1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-0
-          - pr-0
-        borderWidth: 1
   - type: LabelsSection
     title: Skills
     subtitle: 'Skills:'
