@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: self-serenade
 colors: colors-a
-date: ''
+date: '0002-03-08'
 client: nuAZN
 description: ''
 featuredImage:
