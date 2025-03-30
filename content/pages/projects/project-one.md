@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-03-29 at 8.37.40 PM.png
-  altText: Project thumbnail image
+  altText: ''
 media:
   type: ImageBlock
   url: /images/bg1.jpg
