@@ -10,6 +10,9 @@ sections:
       continue to graduate school. my research interests include bilingualism,
       sociolinguistics, language acquisition, prosody, and natural language
       processing, all focused in dialectal and diasporic asian populations.
+
+
+      my personal interests include photography, pottery, baking, and many more!
     colors: colors-f
     variant: variant-b
     elementId: ''
