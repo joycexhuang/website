@@ -3,7 +3,7 @@ type: ProjectLayout
 title: self-serenade
 date: '2024-03-08'
 client: nuAZN
-description: my first photoshoot for a story
+description: first photoshoot for a story
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
