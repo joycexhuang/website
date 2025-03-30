@@ -46,7 +46,7 @@ sections:
         label: microsoft office
         url: ''
       - type: Label
-        label: React
+        label: ''
         url: ''
       - type: Label
         label: Microsoft Office
