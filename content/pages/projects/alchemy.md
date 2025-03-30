@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Screenshot 2025-03-29 at 8.47.49 PM.png
+  url: /images/Screenshot 2025-03-29 at 8.54.29 PM.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
