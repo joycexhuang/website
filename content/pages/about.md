@@ -46,7 +46,7 @@ sections:
         label: microsoft office
         url: ''
       - type: Label
-        label: ''
+        label: adobe creative suite
         url: ''
       - type: Label
         label: Microsoft Office
