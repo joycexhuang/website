@@ -63,6 +63,9 @@ sections:
       - type: Label
         label: c++
         url: ''
+      - type: Label
+        label: python
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
