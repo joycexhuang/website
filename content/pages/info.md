@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     text: >
       hi, i'm joyce, an undergraduate student at northwestern university
-      studying linguistics, computer science, and asian american studies, hoping
-      to pursue a doctorate. my research interests include bilingualism,
+      studying linguistics, computer science, & asian american studies and
+      hoping to pursue a doctorate. my research interests include bilingualism,
       sociolinguistics, language acquisition, prosody, and natural language
       processing, especially in diasporic asian communities and dialects.
     media:
