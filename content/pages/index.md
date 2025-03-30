@@ -36,6 +36,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/alchemy.md
+      - content/pages/projects/self-serenade.md
     colors: colors-f
     variant: variant-b
     elementId: ''
