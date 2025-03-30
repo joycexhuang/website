@@ -3,9 +3,7 @@ type: ProjectLayout
 title: alchemy
 date: '2023-11-28'
 client: nuAZN
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: first photoshoot at nuazn
 featuredImage:
   type: ImageBlock
   url: /images/abe46c12_original.jpg
