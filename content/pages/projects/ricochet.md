@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ricochet
 date: '2025-03-09'
 client: nuAZN
-description: first shoot as photo director
+description: first photoshoot as photo director
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-03-29 at 8.37.40 PM.png
