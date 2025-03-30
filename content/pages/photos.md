@@ -22,17 +22,17 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
+        url: /images/Screenshot 2025-03-29 at 9.14.45 PM.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
         url: /images/Screenshot 2025-03-29 at 9.13.49 PM.png
         altText: Image four
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
         url: /images/Screenshot 2025-03-29 at 9.14.10 PM.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Screenshot 2025-03-29 at 9.14.45 PM.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
