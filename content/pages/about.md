@@ -52,7 +52,7 @@ sections:
         label: Next.js
         url: ''
       - type: Label
-        label: Netlify
+        label: netlify
         url: ''
       - type: Label
         label: Pancakes
