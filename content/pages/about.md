@@ -41,7 +41,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/nuAZN LOGO RAHHHHHH.png
-        altText: logo one
+        altText: ''
         caption: northwestern asian magazine
         elementId: ''
       - type: ImageBlock
