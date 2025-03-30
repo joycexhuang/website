@@ -2,6 +2,27 @@
 type: PageLayout
 title: about
 sections:
+  - type: TextSection
+    title: ''
+    subtitle: The section subtitle
+    text: >
+      i am an undergraduate student at northwestern university striving to
+      continue to graduate school. my research interests include bilingualism,
+      sociolinguistics, language acquisition, prosody, and natural language
+      processing, all focused in dialectal and diasporic asian populations.
+    colors: colors-d
+    variant: variant-b
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -60,27 +81,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - type: TextSection
-    title: ''
-    subtitle: The section subtitle
-    text: >
-      i am an undergraduate student at northwestern university striving to
-      continue to graduate school. my research interests include bilingualism,
-      sociolinguistics, language acquisition, prosody, and natural language
-      processing, all focused in dialectal and diasporic asian populations.
-    colors: colors-d
-    variant: variant-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
