@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ricochet
 colors: colors-a
-date: '2025-03-15'
+date: '2025-03-09'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
