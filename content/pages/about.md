@@ -72,6 +72,9 @@ sections:
       - type: Label
         label: dssl2
         url: ''
+      - type: Label
+        label: mandarin chinese
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
