@@ -78,6 +78,9 @@ sections:
       - type: Label
         label: wenzhounese
         url: ''
+      - type: Label
+        label: spanish
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
