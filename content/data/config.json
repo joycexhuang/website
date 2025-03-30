@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Portfolio",
+                "label": "Photos",
                 "altText": "",
                 "url": "/portfolio",
                 "showIcon": false,
