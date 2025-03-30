@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ricochet
 date: '2025-03-09'
-client: Awesome client
+client: nuAZN
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
