@@ -49,7 +49,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: featured projects
 backgroundImage:
   type: BackgroundImage
   url: /images/27680006-2.jpg
