@@ -12,14 +12,14 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Screenshot 2025-03-29 at 4.46.34 PM.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Screenshot 2025-03-29 at 9.09.50 PM.png
         altText: Image three
         caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Screenshot 2025-03-29 at 4.46.34 PM.png
+        altText: Image one
+        caption: Image one caption
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-4.jpg
