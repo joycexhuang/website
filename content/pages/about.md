@@ -52,7 +52,7 @@ sections:
         label: jmp
         url: ''
       - type: Label
-        label: netlify
+        label: latex
         url: ''
       - type: Label
         label: Pancakes
