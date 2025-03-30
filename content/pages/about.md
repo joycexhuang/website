@@ -67,7 +67,7 @@ sections:
         label: python
         url: ''
       - type: Label
-        label: dr. racket
+        label: drracket
         url: ''
     colors: colors-f
     elementId: ''
