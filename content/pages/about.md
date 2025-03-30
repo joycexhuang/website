@@ -75,6 +75,9 @@ sections:
       - type: Label
         label: mandarin chinese
         url: ''
+      - type: Label
+        label: wenzhounese
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
