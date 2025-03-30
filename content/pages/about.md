@@ -133,6 +133,27 @@ sections:
           - pl-0
           - pr-0
         borderWidth: 1
+  - type: TextSection
+    title: ''
+    subtitle: The section subtitle
+    text: >
+      i am an undergraduate student at northwestern university striving to
+      continue to graduate school. my research interests include bilingualism,
+      sociolinguistics, language acquisition, prosody, and natural language
+      processing, all focused in dialectal and diasporic asian populations.
+    colors: colors-d
+    variant: variant-b
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        textAlign: left
   - type: FeaturedItemsSection
     title: ''
     subtitle: 'You can find me here:'
@@ -302,27 +323,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - type: TextSection
-    title: ''
-    subtitle: The section subtitle
-    text: >
-      i am an undergraduate student at northwestern university striving to
-      continue to graduate school. my research interests include bilingualism,
-      sociolinguistics, language acquisition, prosody, and natural language
-      processing, all focused in dialectal and diasporic asian populations.
-    colors: colors-d
-    variant: variant-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
