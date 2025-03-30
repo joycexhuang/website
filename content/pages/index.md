@@ -6,7 +6,7 @@ sections:
   - type: TextSection
     title: joyce huang
     text: |+
-      ### aspiring academic/creative based out of chicago
+      ### lactose-tolerant aspiring academic/creative based out of chicago
 
     colors: colors-f
     variant: variant-a
