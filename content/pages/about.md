@@ -4,7 +4,7 @@ title: about
 sections:
   - type: TextSection
     title: joyce huang
-    subtitle: The section subtitle
+    subtitle: linguistics and computer science w/ asian american studies
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
