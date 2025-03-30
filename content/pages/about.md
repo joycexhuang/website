@@ -303,7 +303,7 @@ sections:
           - pr-4
         textAlign: center
   - type: TextSection
-    title: The Section Title
+    title: ''
     subtitle: The section subtitle
     text: >
       i am an undergraduate student at northwestern university striving to
