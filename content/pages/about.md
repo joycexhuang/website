@@ -42,7 +42,7 @@ sections:
       - type: ImageBlock
         url: /images/nbnlogo.webp
         altText: ''
-        caption: north by northwestern
+        caption: ''
         elementId: ''
     colors: colors-f
     spacing: 16
