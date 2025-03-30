@@ -3,7 +3,7 @@ type: PageLayout
 title: about
 sections:
   - type: TextSection
-    title: ''
+    title: joyce !
     subtitle: The section subtitle
     text: >
       i am an undergraduate student at northwestern university striving to
