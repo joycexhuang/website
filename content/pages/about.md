@@ -35,27 +35,6 @@ sections:
           - pl-0
           - pr-0
         borderWidth: 1
-  - type: MediaGallerySection
-    title: ''
-    subtitle: 'i''ve worked on things here:'
-    images: []
-    colors: colors-f
-    spacing: 16
-    columns: 5
-    aspectRatio: auto
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
