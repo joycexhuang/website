@@ -35,27 +35,6 @@ sections:
           - pl-0
           - pr-0
         borderWidth: 1
-  - type: MediaGallerySection
-    title: ''
-    subtitle: 'i''ve worked here:'
-    images: []
-    colors: colors-f
-    spacing: 16
-    columns: 5
-    aspectRatio: auto
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -116,6 +95,52 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-(--theme-dark)
+        textAlign: center
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/logo1.svg
+        altText: logo one
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo2.svg
+        altText: logo two
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo3.svg
+        altText: logo three
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo4.svg
+        altText: logo four
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo5.svg
+        altText: logo five
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-a
+    spacing: 16
+    columns: 5
+    aspectRatio: '16:9'
+    showCaption: true
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
         textAlign: center
 addTitleSuffix: true
 colors: colors-a
