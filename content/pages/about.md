@@ -43,7 +43,6 @@ sections:
         altText: ''
         caption: ''
         elementId: ''
-        url: /images/nbnlogo.webp
     colors: colors-f
     spacing: 16
     columns: 5
