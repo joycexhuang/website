@@ -50,6 +50,7 @@ sections:
           - pr-4
         textAlign: left
     subtitle: ''
+    title: featured projects
 backgroundImage:
   type: BackgroundImage
   url: /images/27680006-2.jpg
