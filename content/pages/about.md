@@ -40,7 +40,6 @@ sections:
     subtitle: 'i''ve worked here:'
     images:
       - type: ImageBlock
-        url: /images/nbnlogo.webp
         altText: ''
         caption: ''
         elementId: ''
