@@ -40,7 +40,7 @@ sections:
     subtitle: 'i''ve worked on things here:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/nuAZN LOGO RAHHHHHH.png
         altText: logo one
         caption: Caption of the image
         elementId: ''
