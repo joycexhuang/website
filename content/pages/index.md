@@ -34,8 +34,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects:
-      - content/pages/projects/project-3.md
+    projects: []
     colors: colors-f
     variant: variant-b
     elementId: ''
