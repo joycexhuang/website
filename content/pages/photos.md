@@ -3,7 +3,7 @@ type: PageLayout
 title: photos
 sections:
   - type: MediaGallerySection
-    title: highlight
+    title: highlights
     subtitle: featuring the best shots from my life on film
     images:
       - type: ImageBlock
